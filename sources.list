@@ -40,12 +40,12 @@ deb http://pl.archive.ubuntu.com/ubuntu/ bionic-backports main restricted univer
 ## 'partner' repository.
 ## This software is not part of Ubuntu, but is offered by Canonical and the
 ## respective vendors as a service to Ubuntu users.
-# deb http://archive.canonical.com/ubuntu bionic partner
-# deb-src http://archive.canonical.com/ubuntu bionic partner
+deb http://archive.canonical.com/ubuntu/ bionic partner
+# deb-src http://archive.canonical.com/ubuntu/ bionic partner
 
-deb http://security.ubuntu.com/ubuntu bionic-security main restricted
-# deb-src http://security.ubuntu.com/ubuntu bionic-security main restricted
-deb http://security.ubuntu.com/ubuntu bionic-security universe
-# deb-src http://security.ubuntu.com/ubuntu bionic-security universe
-deb http://security.ubuntu.com/ubuntu bionic-security multiverse
-# deb-src http://security.ubuntu.com/ubuntu bionic-security multiverse
+deb http://security.ubuntu.com/ubuntu/ bionic-security main restricted
+# deb-src http://security.ubuntu.com/ubuntu/ bionic-security main restricted
+deb http://security.ubuntu.com/ubuntu/ bionic-security universe
+# deb-src http://security.ubuntu.com/ubuntu/ bionic-security universe
+deb http://security.ubuntu.com/ubuntu/ bionic-security multiverse
+# deb-src http://security.ubuntu.com/ubuntu/ bionic-security multiverse
