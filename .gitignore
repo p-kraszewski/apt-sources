@@ -1,0 +1,9 @@
+/apt.conf.d
+/preferences.d
+
+*.conf
+*.save
+*~
+
+!/**/*.gpg
+!/**/*.list
