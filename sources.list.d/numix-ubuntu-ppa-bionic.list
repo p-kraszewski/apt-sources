@@ -1,2 +1,2 @@
-deb http://ppa.launchpad.net/numix/ppa/ubuntu bionic main
+deb http://ppa.launchpad.net/numix/ppa/ubuntu cosmic main # wyłączony podczas aktualizacji do cosmic
 # deb-src http://ppa.launchpad.net/numix/ppa/ubuntu bionic main

@@ -4,6 +4,7 @@
 *.conf
 *.save
 *~
+*.distUpgrade
 
 !/**/*.gpg
 !/**/*.list

@@ -1,4 +1,4 @@
-deb http://apt.syncthing.net/ syncthing release
+deb http://apt.syncthing.net/ syncthing release # wyłączony podczas aktualizacji do cosmic
 
 
 

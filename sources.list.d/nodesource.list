@@ -1,2 +1,2 @@
-deb https://deb.nodesource.com/node_10.x bionic main
-deb-src https://deb.nodesource.com/node_10.x bionic main
+deb https://deb.nodesource.com/node_10.x cosmic main # wyłączony podczas aktualizacji do cosmic
+# deb-src https://deb.nodesource.com/node_10.x cosmic main # wyłączony podczas aktualizacji do cosmic

@@ -1,2 +1,2 @@
-deb http://ppa.launchpad.net/wireguard/wireguard/ubuntu bionic main
+deb http://ppa.launchpad.net/wireguard/wireguard/ubuntu cosmic main # wyłączony podczas aktualizacji do cosmic
 # deb-src http://ppa.launchpad.net/wireguard/wireguard/ubuntu bionic main

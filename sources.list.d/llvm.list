@@ -1,3 +1,4 @@
-deb http://apt.llvm.org/bionic/ llvm-toolchain-bionic main
+deb http://apt.llvm.org/bionic/ llvm-toolchain-bionic main # wyłączony podczas aktualizacji do cosmic
+# deb http://apt.llvm.org/bionic/ llvm-toolchain-cosmic main # wyłączony podczas aktualizacji do cosmic
 # deb-src http://apt.llvm.org/bionic/ llvm-toolchain-bionic main
 

@@ -1,4 +1,5 @@
-deb https://packages.erlang-solutions.com/ubuntu/ bionic contrib
+#deb https://packages.erlang-solutions.com/ubuntu/ cosmic contrib # wyłączony podczas aktualizacji do cosmic
+deb https://packages.erlang-solutions.com/ubuntu/ bionic contrib # wyłączony podczas aktualizacji do cosmic
 
 
 
