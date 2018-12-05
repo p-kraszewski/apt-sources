@@ -1,2 +1,2 @@
-#deb http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu cosmic main # wyłączony podczas aktualizacji do cosmic
+# deb http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu cosmic main # wyłączony podczas aktualizacji do cosmic
 # deb-src http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu bionic main

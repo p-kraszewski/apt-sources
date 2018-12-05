@@ -1,2 +1,2 @@
 deb https://repos.influxdata.com/ubuntu bionic stable # wyłączony podczas aktualizacji do cosmic
-#deb https://repos.influxdata.com/ubuntu cosmic stable # wyłączony podczas aktualizacji do cosmic
+# deb https://repos.influxdata.com/ubuntu cosmic stable # wyłączony podczas aktualizacji do cosmic
