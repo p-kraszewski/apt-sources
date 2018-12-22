@@ -1,4 +1,4 @@
-deb [arch=amd64] https://repo.mongodb.org/apt/ubuntu/ xenial/mongodb-org/3.6 multiverse
+deb [arch=amd64] https://repo.mongodb.org/apt/ubuntu/ xenial/mongodb-org/4.0 multiverse # wyłączony podczas aktualizacji do cosmic
 
 
 
