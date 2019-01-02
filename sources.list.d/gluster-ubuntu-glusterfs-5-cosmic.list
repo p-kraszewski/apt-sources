@@ -1,2 +1,2 @@
-deb http://ppa.launchpad.net/gluster/glusterfs-5/ubuntu cosmic main
-# deb-src http://ppa.launchpad.net/gluster/glusterfs-5/ubuntu cosmic main
+deb http://ppa.launchpad.net/gluster/glusterfs-5/ubuntu cosmic main # GlusterFS
+# deb-src http://ppa.launchpad.net/gluster/glusterfs-5/ubuntu cosmic main # GlusterFS

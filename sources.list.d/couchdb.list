@@ -1,1 +1,2 @@
-deb https://apache.bintray.com/couchdb-deb bionic main
+deb https://apache.bintray.com/couchdb-deb bionic main # CouchDB
+

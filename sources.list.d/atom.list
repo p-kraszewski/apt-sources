@@ -1,1 +1,1 @@
-deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main # wyłączony podczas aktualizacji do cosmic
+deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main # Atom.io

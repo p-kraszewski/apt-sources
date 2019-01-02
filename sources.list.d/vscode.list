@@ -3,7 +3,8 @@
 ###
 ### THIS FILE IS AUTOMATICALLY CONFIGURED ###
 # You may comment out this entry, but any other modifications may be lost.
-deb [arch=amd64] http://packages.microsoft.com/repos/vscode/ stable main # wyłączony podczas aktualizacji do cosmic
+deb [arch=amd64] http://packages.microsoft.com/repos/vscode/ stable main # Visual Studio Code
+
 
 
 
