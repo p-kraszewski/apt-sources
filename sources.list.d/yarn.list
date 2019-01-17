@@ -1,1 +1,1 @@
-#deb https://dl.yarnpkg.com/debian/ stable main # Yarn NodeJS packager
+# deb https://dl.yarnpkg.com/debian/ stable main # Yarn NodeJS packager
