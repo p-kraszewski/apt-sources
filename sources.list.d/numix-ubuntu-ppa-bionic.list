@@ -1,2 +1,1 @@
-deb http://ppa.launchpad.net/numix/ppa/ubuntu cosmic main # Numix
-# deb-src http://ppa.launchpad.net/numix/ppa/ubuntu cosmic main # Numix
+deb http://ppa.launchpad.net/numix/ppa/ubuntu disco main # Numix

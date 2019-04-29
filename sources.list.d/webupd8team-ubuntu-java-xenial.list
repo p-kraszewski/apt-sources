@@ -1,2 +1,1 @@
-deb http://ppa.launchpad.net/linuxuprising/java/ubuntu/ cosmic main # Java-current
-
+deb http://ppa.launchpad.net/linuxuprising/java/ubuntu/ disco main # Java-current

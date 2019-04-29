@@ -1,2 +1,1 @@
-deb https://deb.nodesource.com/node_11.x cosmic main # NodeJS
-# deb-src https://deb.nodesource.com/node_11.x cosmic main # NodeJS
+deb https://deb.nodesource.com/node_11.x disco main # NodeJS

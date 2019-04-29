@@ -1,2 +1,1 @@
-deb http://ppa.launchpad.net/wireguard/wireguard/ubuntu cosmic main # Wire-Guard
-# deb-src http://ppa.launchpad.net/wireguard/wireguard/ubuntu cosmic main # Wire-Guard
+deb http://ppa.launchpad.net/wireguard/wireguard/ubuntu disco main # Wire-Guard

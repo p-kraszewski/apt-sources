@@ -1,2 +1,1 @@
 deb http://ppa.launchpad.net/ansible/ansible/ubuntu cosmic main # Ansible
-# deb-src http://ppa.launchpad.net/ansible/ansible/ubuntu cosmic main # Ansible
