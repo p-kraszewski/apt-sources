@@ -1,1 +1,2 @@
-deb https://deb.nodesource.com/node_11.x disco main # NodeJS
+deb https://deb.nodesource.com/node_11.x disco main
+#deb-src https://deb.nodesource.com/node_11.x disco main

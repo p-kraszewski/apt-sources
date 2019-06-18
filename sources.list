@@ -51,3 +51,4 @@ deb http://security.ubuntu.com/ubuntu/ disco-security multiverse
 # deb-src http://security.ubuntu.com/ubuntu/ bionic-security multiverse
 # deb https://static.redox-os.org/toolchain/apt /
 # deb-src https://static.redox-os.org/toolchain/apt /
+# deb-src [arch=amd64] https://download.docker.com/linux/ubuntu disco stable

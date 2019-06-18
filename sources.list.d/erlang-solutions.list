@@ -1,1 +1,1 @@
-#deb https://packages.erlang-solutions.com/ubuntu/ cosmic contrib # Erlang
+# deb https://packages.erlang-solutions.com/ubuntu/ disco contrib # Erlang
